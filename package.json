@@ -1,0 +1,22 @@
+{
+  "name": "npm-tut-learn",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-foodhub/npm-tut-learn.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak-foodhub/npm-tut-learn/issues"
+  },
+  "homepage": "https://github.com/deepak-foodhub/npm-tut-learn#readme"
+}
